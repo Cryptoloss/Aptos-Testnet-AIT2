@@ -41,7 +41,7 @@ Sonra Bu Kodu Girelim
 
 `cd aptos-core`
 
-Geliştirici Ortamını Hazırla (Enter Y)
+Geliştirici Ortamını Hazırla (Enter Y) uzun sürecek
 
 `./scripts/dev_setup.sh`
 

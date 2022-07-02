@@ -137,7 +137,7 @@ __şimdi vereeceğim kod ile ilk görseldeki taralı alanları silim verdiğim k
 
 `/root/testnet/`
 
-![2]([https://user-images.githubusercontent.com/98783018/176990094-40835cab-da07-46b7-a9c6-397e401446a0.png](https://user-images.githubusercontent.com/98783018/176990137-deb77367-6ee6-4bda-9305-64673cd18185.png))
+![2](https://user-images.githubusercontent.com/98783018/176990137-deb77367-6ee6-4bda-9305-64673cd18185.png)
 
 Son durum aynı ikinci resimdeki gibi olmalı
 
@@ -153,8 +153,7 @@ Son durum aynı ikinci resimdeki gibi olmalı
 
 CTRL+A+D ile screenden çıkabilirsiniz
 
-Node'nin çalışıp çalışmadığını kontrol edelim. Öncelikle linke [TIKLA]([url](https://aptos-node.info/))
-
+Node'nin çalışıp çalışmadığını kontrol edelim. Öncelikle linke [TIKLA](https://aptos-node.info/)
 Açılan menü içerisinden sol en üst taraftaki arama bölümüne VPS adresini gir.
 
 

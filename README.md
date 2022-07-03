@@ -43,6 +43,10 @@ Reset At
 
 `cd ~/.aptos && docker-compose restart`
 
+Sync Durumu
+
+`curl 127.0.0.1:9101/metrics 2> /dev/null | grep aptos_state_sync_version`
+
 Node Durdur
 
 `cd ~/.aptos && docker-compose stop`
